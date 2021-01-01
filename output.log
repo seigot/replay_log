@@ -1,0 +1,45 @@
+20210102020616369515329 bash test.sh
+20210102020616491301681 取得:1 file:/var/cuda-repo-ubuntu1804-11-0-local InRelease
+20210102020616493107904 無視:1 file:/var/cuda-repo-ubuntu1804-11-0-local InRelease
+20210102020616494929551 取得:2 file:/var/cuda-repo-ubuntu1804-11-0-local Release [564 B]
+20210102020616496583930 取得:2 file:/var/cuda-repo-ubuntu1804-11-0-local Release [564 B]
+20210102020616642156110 ヒット:4 http://jp.archive.ubuntu.com/ubuntu bionic InRelease
+20210102020616704724333 ヒット:5 http://jp.archive.ubuntu.com/ubuntu bionic-updates InRelease
+20210102020616759157247 ヒット:6 https://nvidia.github.io/libnvidia-container/stable/ubuntu18.04/amd64 InRelease
+20210102020616764424034 ヒット:7 http://jp.archive.ubuntu.com/ubuntu bionic-backports InRelease
+20210102020616824436058 ヒット:8 http://packages.osrfoundation.org/gazebo/ubuntu-stable bionic InRelease
+20210102020616827521317 ヒット:9 https://nvidia.github.io/nvidia-container-runtime/stable/ubuntu18.04/amd64 InRelease
+20210102020616879248648 取得:10 https://nvidia.github.io/nvidia-docker/ubuntu18.04/amd64 InRelease [1,129 B]
+20210102020616882438496 ヒット:11 https://download.docker.com/linux/ubuntu bionic InRelease
+20210102020616932841443 ヒット:12 http://packages.ros.org/ros/ubuntu bionic InRelease
+20210102020617250751762 ヒット:13 http://security.ubuntu.com/ubuntu bionic-security InRelease
+20210102020617372066790 ヒット:14 http://ppa.launchpad.net/canonical-hwe-team/backport-iwlwifi/ubuntu bionic InRelease
+20210102020618567307353 1,129 B を 2秒 で取得しました (585 B/s)
+20210102020619677184738 パッケージリストを読み込んでいます...
+20210102020619920002437 依存関係ツリーを作成しています...
+20210102020619921985521 状態情報を読み取っています...
+20210102020619948051694 アップグレードできるパッケージが 1 個あります。表示するには apt list --upgradable を実行してください。
+20210102020620010083801 パッケージリストを読み込んでいます...
+20210102020620221870400 依存関係ツリーを作成しています...
+20210102020620223809904 状態情報を読み取っています...
+20210102020620410416521 emacs はすでに最新バージョン (47.0) です。
+20210102020620412372611 以下のパッケージが自動でインストールされましたが、もう必要とされていません:
+20210102020620414312337 fonts-lato libccd-dev libccd2 libfwup1 libgraphviz-dev libgvc6-plugins-gtk
+20210102020620416031658 libllvm9 libnvidia-common-440-server libopenal-dev libqtpropertybrowser4
+20210102020620418070087 libruby2.5 libxdot4 rake ruby ruby-did-you-mean ruby-minitest
+20210102020620419771706 ruby-net-telnet ruby-power-assert ruby-test-unit ruby2.5
+20210102020620421379780 rubygems-integration
+20210102020620423463527 これを削除するには sudo apt autoremove を利用してください。
+20210102020620460194804 アップグレード: 0 個、新規インストール: 0 個、削除: 0 個、保留: 1 個。
+20210102020620521018071 パッケージリストを読み込んでいます...
+20210102020620733955265 依存関係ツリーを作成しています...
+20210102020620735730026 状態情報を読み取っています...
+20210102020620923068121 openssh-server はすでに最新バージョン (1:7.6p1-4ubuntu0.3) です。
+20210102020620925079536 以下のパッケージが自動でインストールされましたが、もう必要とされていません:
+20210102020620927091120 fonts-lato libccd-dev libccd2 libfwup1 libgraphviz-dev libgvc6-plugins-gtk
+20210102020620929013651 libllvm9 libnvidia-common-440-server libopenal-dev libqtpropertybrowser4
+20210102020620930779113 libruby2.5 libxdot4 rake ruby ruby-did-you-mean ruby-minitest
+20210102020620932635805 ruby-net-telnet ruby-power-assert ruby-test-unit ruby2.5
+20210102020620934413391 rubygems-integration
+20210102020620936068667 これを削除するには sudo apt autoremove を利用してください。
+20210102020620975001035 アップグレード: 0 個、新規インストール: 0 個、削除: 0 個、保留: 1 個。
